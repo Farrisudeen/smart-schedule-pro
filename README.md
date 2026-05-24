@@ -164,4 +164,4 @@ smart-schedule-pro/
 
 ## 👤 Author
 
-**Farrisu Deen M H** — [LinkedIn](https://linkedin.com/in/farrisu-deen-a6420325a) · [GitHub](https://github.com/Farrisudeen)
+**Farrisu Deen M H** — [LinkedIn](https://www.linkedin.com/in/farrisu-deen-m-h-a6420325a/) · [GitHub](https://github.com/Farrisudeen)
